@@ -23,7 +23,6 @@ does successfully process the content from the city dataset.
   * For the <node> element, what do I generate for @id and @version?
   * For the <node> element, do I need to generate anything for @changeset, @user, @uid, or @timestamp?
   * Review the <tag> elements for correctness.
-  * This script generates multiple "image" tags, but only one is supported.
   * Need to figure out the rest of the import process.
   * This is blocked by city publication of its data terms of use.
 

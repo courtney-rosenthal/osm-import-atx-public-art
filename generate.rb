@@ -1,9 +1,11 @@
+require 'open-uri'
 require 'csv'
 require 'rexml/document'
 include REXML  # so that we don't have to prefix everything with REXML::...
 require 'time'
 
 SOURCE = "City_of_Austin_Public_Art_Collection.csv"
+#SOURCE = "https://data.austintexas.gov/api/views/yqxj-7evp/rows.csv"
 
 SOURCE_URL = "https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp"
 
@@ -81,9 +83,8 @@ open(SOURCE) do |io|
     #node.add_tag("artwork_type", ???)
     #node.add_tag("material", ???)
     node.add_tag("url", row["Web Detail Page"])
-    row["Images"].split(/;/).each do |url|
-      node.add_tag("image", url)
-    end
+    url = row["Images"].sub(/;.*/, "")
+    node.add_tag("image", url) unless url.empty?
     node.add_tag("source_ref", SOURCE_URL)
 
   end
