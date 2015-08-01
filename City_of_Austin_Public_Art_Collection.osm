@@ -1,0 +1,1727 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6'>
+  <node id='1' version='1' lat='30.265255505104278' lon='-97.73647200312456' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Big Chiller Blues'/>
+    <tag k='artist_name' v='Ann M.Adams'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=504 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2005_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2005_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2005_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='2' version='1' lat='30.25976964072555' lon='-97.70959126766877' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Dawn to Dusk'/>
+    <tag k='artist_name' v='Rene Anguiano'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=132 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_004.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_004_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_004_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='3' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='The Children are the Future'/>
+    <tag k='artist_name' v='Joe Arellano'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_003.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='4' version='1' lat='30.210783569789555' lon='-97.75245295558523' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Wall of Hands'/>
+    <tag k='artist_name' v='Tre Arenz'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=110 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_001.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='5' version='1' lat='30.41594458828731' lon='-97.69589651948735' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Untitled'/>
+    <tag k='artist_name' v='Tre Arenz'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_011.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='6' version='1' lat='30.260024534650952' lon='-97.73317439552804' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Rayo de Esperanza - A Beacon of Hope: Sculpture; Community Kiosk; Benches'/>
+    <tag k='artist_name' v='Connie Arismendi'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='7' version='1' lat='30.265009999611948' lon='-97.71688999987344' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Trail of Tejano Legends: ¡Estamos en Tejas!'/>
+    <tag k='artist_name' v='Connie Arismendi'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=516 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='8' version='1' lat='30.260024534650952' lon='-97.73317439552804' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='El futuro es una página en blanco. ¿Qué escribirás en ella?'/>
+    <tag k='artist_name' v='Connie Arismendi'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=506 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2006_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2006_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2006_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='9' version='1' lat='30.25799797632783' lon='-97.73958365734592' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Trail of Tejano Legends: Una Canción de Fe Y Familia'/>
+    <tag k='artist_name' v='Connie Arismendi'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=514 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_007_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_007_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_007_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='10' version='1' lat='30.265009999611948' lon='-97.71688999987344' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Trail of Tejano Legends: Tenderly'/>
+    <tag k='artist_name' v='Connie Arismendi'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=515 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_004_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_004_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_004_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='11' version='1' lat='30.25976064750523' lon='-97.753981803035' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Autumn Ponds'/>
+    <tag k='artist_name' v='Twyla Arthur'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=191 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='12' version='1' lat='30.263196057657183' lon='-97.71330097103964' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Celebrating Traditions'/>
+    <tag k='artist_name' v='Twyla Arthur'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=197 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_007_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_007_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_007_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='13' version='1' lat='30.36249919613249' lon='-97.73069835569646' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Read More Books'/>
+    <tag k='artist_name' v='Kathleen Ash'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=519 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='14' version='1' lat='30.272315183034266' lon='-97.77514285038444' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Big Snake'/>
+    <tag k='artist_name' v='Kathleen Ash'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_016.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_016_2.gif'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_016_3.gif'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='15' version='1' lat='30.36249919613249' lon='-97.73069835569646' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Sea of Knowledge'/>
+    <tag k='artist_name' v='Kathleen Ash'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=520 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='16' version='1' lat='30.269920000307934' lon='-97.74332000011776' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='La Fuente en Calle Segundo'/>
+    <tag k='artist_name' v='Jerolyn Bahm-Colombik'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2010_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='17' version='1' lat='30.323072918367984' lon='-97.74093264038987' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Flights of Fancy'/>
+    <tag k='artist_name' v='Dayna Beard-Isensee'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_005.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_005_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_005_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='18' version='1' lat='30.202653698644724' lon='-97.66544354925043' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Reality * Texas * Mythology'/>
+    <tag k='artist_name' v='Jill Bedgood '/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=137 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_004_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_004_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_004_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='19' version='1' lat='30.26473389832728' lon='-97.74923338272032' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Texas Botanicals'/>
+    <tag k='artist_name' v='Jill Bedgood '/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=125 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='20' version='1' lat='30.265983955948002' lon='-97.76862276567203' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Phantom Ship'/>
+    <tag k='artist_name' v='Jill Bedgood '/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=98 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_002_01.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_002_02.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_002_03.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='21' version='1' lat='30.23392312560344' lon='-97.78565592490696' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Community Quilt'/>
+    <tag k='artist_name' v='Jill Bedgood '/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1995_003.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='22' version='1' lat='30.25604476813926' lon='-97.73717840179187' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Open Room Austin'/>
+    <tag k='artist_name' v='Roberto Behar '/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='23' version='1' lat='30.252912715050357' lon='-97.69302633905961' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Connected'/>
+    <tag k='artist_name' v='Nan StandishBlake'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=212 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/connected_blake.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='24' version='1' lat='30.311966291306135' lon='-97.69066053895199' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Reading Between the Lions'/>
+    <tag k='artist_name' v='Paul Bond'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=144 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2000_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2000_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2000_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='25' version='1' lat='30.136680000082094' lon='-97.67493999978103' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Personal Effects III'/>
+    <tag k='artist_name' v='Katherine Brimberry'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=172 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_004.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='26' version='1' lat='30.26473389832728' lon='-97.74923338272032' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Macro / Micro Culture'/>
+    <tag k='artist_name' v='Rolando Briseno'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=196 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_005_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_005_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_005_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='27' version='1' lat='30.21058571894315' lon='-97.73807279633667' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='The Unsung'/>
+    <tag k='artist_name' v='Doug Brown'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=187 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/unsung_brown.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2001_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2001_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='28' version='1' lat='30.266028922049486' lon='-97.71101219647505' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Aurora'/>
+    <tag k='artist_name' v='Elizabeth Busch'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=91 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1988_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1988_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1988_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='29' version='1' lat='30.26929346101582' lon='-97.71621027780441' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Outdoor Studio'/>
+    <tag k='artist_name' v='Laurel Butler'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1990_001.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='30' version='1' lat='30.323072918367984' lon='-97.74093264038987' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Flights of Fancy'/>
+    <tag k='artist_name' v='Marla Camp'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_005.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_005_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_005_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='31' version='1' lat='30.43341073814281' lon='-97.77254380971976' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Souls of the Trees'/>
+    <tag k='artist_name' v='Heather Carter'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=508 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2007_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2007_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2007_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='32' version='1' lat='30.136680000082094' lon='-97.67493999978103' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='X'/>
+    <tag k='artist_name' v='Belinda Casey'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=180 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_012.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='33' version='1' lat='30.269833054233402' lon='-97.73455644720212' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='The Source'/>
+    <tag k='artist_name' v='John Christensen'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=112 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_003.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='34' version='1' lat='30.302361532033217' lon='-97.63448888500193' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Turner-Roberts-Overton Memorial'/>
+    <tag k='artist_name' v='John Christensen'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=531 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/2008_005_01.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/2008_005_02.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/2008_005_03.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='35' version='1' lat='30.202653698644724' lon='-97.66544354925043' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Leaf; Pod &amp; Samara'/>
+    <tag k='artist_name' v='John Christensen'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=134 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='36' version='1' lat='30.265009999611948' lon='-97.71688999987344' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Door/Not Door'/>
+    <tag k='artist_name' v='Ryah Christensen'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=537 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic006_2009_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic006_2009_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic006_2009_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='37' version='1' lat='30.266019928829166' lon='-97.73916996921241' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='O. Henry at Cards'/>
+    <tag k='artist_name' v='John PatrickCobb'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=105 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1993_004.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='38' version='1' lat='30.298845182898617' lon='-97.69086738301871' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='The Island'/>
+    <tag k='artist_name' v='Roger Colombik'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=218 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_016_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_016_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_016_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='39' version='1' lat='30.269920000307934' lon='-97.74332000011776' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='La Fuente en Calle Segundo'/>
+    <tag k='artist_name' v='Roger Colombik'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2010_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='40' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='For La Raza'/>
+    <tag k='artist_name' v='Oscar Cortez'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1992_006.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='41' version='1' lat='30.136680000082094' lon='-97.67493999978103' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Swallow Suite'/>
+    <tag k='artist_name' v='Margie Crisp'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=173 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_005.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='42' version='1' lat='30.25604476813926' lon='-97.73717840179187' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Giant Mushroom Forest'/>
+    <tag k='artist_name' v='Bill Davenport'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=538 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic001_2009_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic001_2009_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic001_2009_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='43' version='1' lat='30.25799797632783' lon='-97.73958365734592' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Variegated Continuum'/>
+    <tag k='artist_name' v='Sasha Dela'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=543 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic007_2009_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic007_2009_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic007_2009_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='44' version='1' lat='30.269754194880353' lon='-97.72441430407154' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Go Forth'/>
+    <tag k='artist_name' v='Eddie Dixon'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=507 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2005_001_1.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='45' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='La Quinceanera - 15th Birthday'/>
+    <tag k='artist_name' v='Fidencio Duran'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=102 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1992_001.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='46' version='1' lat='30.261388420378296' lon='-97.71211836257112' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Comite Patriota; Cinco de Mayo and Diez y Seis'/>
+    <tag k='artist_name' v='Fidencio Duran'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=119 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_002.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='47' version='1' lat='30.202653698644724' lon='-97.66544354925043' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='The Visit'/>
+    <tag k='artist_name' v='Fidencio Duran'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=136 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='48' version='1' lat='30.266028922049486' lon='-97.71101219647505' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Untitled'/>
+    <tag k='artist_name' v='Garth Edwards'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=92 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1988_002.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='49' version='1' lat='30.272315183034266' lon='-97.77514285038444' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Big Snake'/>
+    <tag k='artist_name' v='Elena Eidelberg'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_016.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_016_2.gif'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_016_3.gif'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='50' version='1' lat='30.187860944732922' lon='-97.74223740897932' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Untitled'/>
+    <tag k='artist_name' v='Elementary School Children From Dove Springs Area'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_001.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='51' version='1' lat='30.187670993636573' lon='-97.739493725143' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='A Dream'/>
+    <tag k='artist_name' v='Courtney Enriquez '/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=130 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_002.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='52' version='1' lat='30.202653698644724' lon='-97.66544354925043' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Hill of the Medicine Man'/>
+    <tag k='artist_name' v='Thomas Evans'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=135 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='53' version='1' lat='30.219201223983816' lon='-97.8552544567545' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Oak Hill Triptych'/>
+    <tag k='artist_name' v='David Everett'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=126 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_003.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='54' version='1' lat='30.136680000082094' lon='-97.67493999978103' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Collector Revisited'/>
+    <tag k='artist_name' v='Kelly Fearing'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=181 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_013.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='55' version='1' lat='30.202653698644724' lon='-97.66544354925043' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='to Parts Unknown'/>
+    <tag k='artist_name' v='Sandra Fiedorek'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=140 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_007_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_007_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_007_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='56' version='1' lat='30.2134455629963' lon='-97.7362741522781' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Doctor Pangloss'/>
+    <tag k='artist_name' v='Sandra Fiedorek'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pangloss_fiedorek.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_009_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_009_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='57' version='1' lat='30.298125725275213' lon='-97.76735472161073' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='-56&quot;- (Fifty-Six Inches)'/>
+    <tag k='artist_name' v='Sandra Fiedorek'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_006.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='58' version='1' lat='30.269949966097215' lon='-97.72449303369427' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Sesquicentennial Mural'/>
+    <tag k='artist_name' v='John Fisher'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=183 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1986_001.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1986_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1986_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='59' version='1' lat='30.269833054233402' lon='-97.73455644720212' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Untitled'/>
+    <tag k='artist_name' v='Malou Flato'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=108 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1993_008.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='60' version='1' lat='30.267600000339883' lon='-97.74297999972708' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Lamina Groove'/>
+    <tag k='artist_name' v='Virginia Fleck'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=195 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/lamina_fleck.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_006_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_006_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='61' version='1' lat='30.252912715050357' lon='-97.69302633905961' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Beach Dogs'/>
+    <tag k='artist_name' v='Matthew Fuller'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=224 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/beachdogs_fuller.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='62' version='1' lat='30.27515704064689' lon='-97.73329739636114' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Hidden Canyon'/>
+    <tag k='artist_name' v='Wanda Gamble'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=164 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1993_001.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='63' version='1' lat='30.311597569274113' lon='-97.6382390578641' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Deuce Gates'/>
+    <tag k='artist_name' v='Martha Gannon'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=533 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_009_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_009_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_009_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='64' version='1' lat='30.260024534650952' lon='-97.73317439552804' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Rayo de Esperanza - A Beacon of Hope: Sculpture; Community Kiosk; Benches'/>
+    <tag k='artist_name' v='Laura Garanzuay'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='65' version='1' lat='30.257854084803114' lon='-97.72073386761178' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Las Acciones del Pasado Aseguran el Exito Hacia el Futuro (The Actions of the Past Ensure Success for the Future)'/>
+    <tag k='artist_name' v='Martin Garcia'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=222 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='66' version='1' lat='30.41594458828731' lon='-97.69589651948735' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Untitled'/>
+    <tag k='artist_name' v='Jake Gilson'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_011.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='67' version='1' lat='30.174289081840584' lon='-97.79204111131497' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Reflect'/>
+    <tag k='artist_name' v='Linnea Glatt'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=193 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='68' version='1' lat='30.269920000307934' lon='-97.74332000011776' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='formation; language; memory'/>
+    <tag k='artist_name' v='Hawkeye Glenn'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/2010_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/2010_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='69' version='1' lat='30.231944617138993' lon='-97.69905121348535' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Reach for your Dreams'/>
+    <tag k='artist_name' v='Ambray Gonzales'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=189 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/reach_gonzales.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='70' version='1' lat='30.26471932275173' lon='-97.7650138477224' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Philosophers Rock'/>
+    <tag k='artist_name' v='Glenna Goodacre'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=203 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_012_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_012_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_012_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='71' version='1' lat='30.136680000082094' lon='-97.67493999978103' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Q (not a quince)'/>
+    <tag k='artist_name' v='Nell Gould'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=174 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_006.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='72' version='1' lat='30.265009999611948' lon='-97.71688999987344' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Bait Box'/>
+    <tag k='artist_name' v='Buster Graybill'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=539 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic002_2009_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic002_2009_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic002_2009_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='73' version='1' lat='30.299249877811803' lon='-97.73244304043328' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Grotto Wall at Sparky Park'/>
+    <tag k='artist_name' v='Berthold Haas'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=511 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_006_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_006_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_006_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='74' version='1' lat='30.243309999856763' lon='-97.76507999994192' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Stevie Ray Vaughan Memorial'/>
+    <tag k='artist_name' v='Ralph Helmick'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=202 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/sr_vaughn_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_005_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_005_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='75' version='1' lat='30.26929346101582' lon='-97.71621027780441' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Snake Culvert'/>
+    <tag k='artist_name' v='T. Paul Hernandez'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=96 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1990_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1990_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1990_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='76' version='1' lat='30.269920000307934' lon='-97.74332000011776' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Opossum Temple and Voodoo Pew'/>
+    <tag k='artist_name' v='T. Paul Hernandez'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1993_007.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='77' version='1' lat='30.377320023175344' lon='-97.74903553187386' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Sanctuary of the Tribal Alligator'/>
+    <tag k='artist_name' v='T. Paul Hernandez'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=94 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1988_005_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1988_005_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1988_005_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='78' version='1' lat='30.26623576611621' lon='-97.76896450804315' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Zilker Gardens Main Entry Gate'/>
+    <tag k='artist_name' v='Louis Herrera'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1995_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1995_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1995_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='79' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='For La Raza'/>
+    <tag k='artist_name' v='Robert Herrera'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1992_006.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='80' version='1' lat='30.298125725275213' lon='-97.76735472161073' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='-56&quot;- (Fifty-Six Inches)'/>
+    <tag k='artist_name' v='David Heymann'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_006.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='81' version='1' lat='30.2134455629963' lon='-97.7362741522781' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Doctor Pangloss'/>
+    <tag k='artist_name' v='David Heymann'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pangloss_fiedorek.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_009_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_009_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='82' version='1' lat='30.25799797632783' lon='-97.73958365734592' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Snake Path'/>
+    <tag k='artist_name' v='Benito Huerta'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=509 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2007_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2007_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2007_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='83' version='1' lat='30.136680000082094' lon='-97.67493999978103' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Padre Nuestro'/>
+    <tag k='artist_name' v='Leticia Huerta'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=182 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_014.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='84' version='1' lat='30.187670993636573' lon='-97.739493725143' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Unity: The Tree of Life'/>
+    <tag k='artist_name' v='Barbara Jackson - Poe '/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=131 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_003.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='85' version='1' lat='30.202653698644724' lon='-97.66544354925043' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Green Austin Series'/>
+    <tag k='artist_name' v='Jimmy Jalapeeno'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=184 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='86' version='1' lat='30.262762792232973' lon='-97.74207698152165' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Tree on Barton Creek'/>
+    <tag k='artist_name' v='Jimmy Jalapeeno'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=169 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_008.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='87' version='1' lat='30.262762792232973' lon='-97.74207698152165' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Our Neighborhood'/>
+    <tag k='artist_name' v='James Janknegt '/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=168 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_007.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='88' version='1' lat='30.270228755926325' lon='-97.74312698614136' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Vision'/>
+    <tag k='artist_name' v='Douglas Jaques'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=170 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_009.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='89' version='1' lat='30.202653698644724' lon='-97.66544354925043' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Voyages'/>
+    <tag k='artist_name' v='Judy Jensen'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=139 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_006_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_006_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_006_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='90' version='1' lat='30.31908674332275' lon='-97.95144847277496' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Golden-Cheeked Warbler'/>
+    <tag k='artist_name' v='Jules BuckJones'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=521 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_004_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_004_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_004_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='91' version='1' lat='30.31908674332275' lon='-97.95144847277496' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Jolly-Ville Plateau Salamander'/>
+    <tag k='artist_name' v='Jules BuckJones'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=522 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_005_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_005_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_005_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='92' version='1' lat='30.202653698644724' lon='-97.66544354925043' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Austin Downtown Cruiser (Day)'/>
+    <tag k='artist_name' v='Young-Min Kang'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=535 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_006a_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_006a_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_006a_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='93' version='1' lat='30.202653698644724' lon='-97.66544354925043' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Austin Downtown Cruiser (Night)'/>
+    <tag k='artist_name' v='Young-Min Kang'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=536 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_006b_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_006b_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_006b_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='94' version='1' lat='30.136680000082094' lon='-97.67493999978103' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='One by One'/>
+    <tag k='artist_name' v='Gabel Karsten'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=175 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_007.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='95' version='1' lat='30.252912715050357' lon='-97.69302633905961' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Kids in the Mirror; Orphanage at Svir Stroi. Svir Stroi; Russia'/>
+    <tag k='artist_name' v='Misty Keasler'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=208 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/kids_keasler.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='96' version='1' lat='30.187410190248045' lon='-97.74255142004262' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Medicinal Plant Wall'/>
+    <tag k='artist_name' v='Philippe Klinefelter'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=220 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/medicinal_klinefelter.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='97' version='1' lat='30.23026288494424' lon='-97.70639867446477' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Discovery'/>
+    <tag k='artist_name' v='Will Larson'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=217 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_015_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_015_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_015_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='98' version='1' lat='30.249751193319128' lon='-97.72356673200409' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='! Mira !'/>
+    <tag k='artist_name' v='Will Larson'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=186 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/mira_larson.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2000_004_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2000_004_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='99' version='1' lat='30.25887931191653' lon='-97.69989657619288' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Elevated Prairie'/>
+    <tag k='artist_name' v='Andrea Legge'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='100' version='1' lat='30.25887931191653' lon='-97.69989657619288' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Elevated Prairie'/>
+    <tag k='artist_name' v='R. Murray Legge'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='101' version='1' lat='30.136680000082094' lon='-97.67493999978103' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Four Terrorists Trapped in a Bullring'/>
+    <tag k='artist_name' v='Robert Levers'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=176 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_008.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='102' version='1' lat='30.25887931191653' lon='-97.69989657619288' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Elevated Prairie'/>
+    <tag k='artist_name' v='Deborah EveLewis'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='103' version='1' lat='30.25604476813926' lon='-97.73717840179187' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Homeland Security'/>
+    <tag k='artist_name' v='Ken Little'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=542 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic005_2009_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic005_2009_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic005_2009_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='104' version='1' lat='30.26473389832728' lon='-97.74923338272032' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Confabulating Orbits'/>
+    <tag k='artist_name' v='Ben M.Livingston'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=120 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_004_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_004_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_004_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='105' version='1' lat='30.252912715050357' lon='-97.69302633905961' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Letterscape'/>
+    <tag k='artist_name' v='Jimmy Luu'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=517 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='106' version='1' lat='30.32465702044624' lon='-97.68935170918957' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Sky Gates'/>
+    <tag k='artist_name' v='Peter Mangan'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=190 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/sky_gates.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2000_005_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2000_005_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='107' version='1' lat='30.25604476813926' lon='-97.73717840179187' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Open Room Austin'/>
+    <tag k='artist_name' v='Rosario  Marquardt'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='108' version='1' lat='30.187860944732922' lon='-97.74223740897932' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Untitled'/>
+    <tag k='artist_name' v='Phil Martin'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_001.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='109' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='The Children are the Future'/>
+    <tag k='artist_name' v='Alfredo Martinez'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_003.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='110' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Signs of the Times'/>
+    <tag k='artist_name' v='Armando Martinez'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_004.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='111' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Me Barrio'/>
+    <tag k='artist_name' v='Armando Martinez'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_008_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_008_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_008_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='112' version='1' lat='30.269920000307934' lon='-97.74332000011776' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='formation; language; memory'/>
+    <tag k='artist_name' v='Lizzie Martinez'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic0000_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/2010_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/2010_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='113' version='1' lat='30.269949966097215' lon='-97.72449303369427' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='A River Runs Thru Us'/>
+    <tag k='artist_name' v='Freddie McCoo'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=300 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/ariver_mccoo.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_006_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_006_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='114' version='1' lat='30.25604476813926' lon='-97.73717840179187' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Emergence'/>
+    <tag k='artist_name' v='Colin McIntyre'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=540 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic003_2009_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic003_2009_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic003_2009_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='115' version='1' lat='30.272315183034266' lon='-97.77514285038444' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Arboreal Passage'/>
+    <tag k='artist_name' v='Colin McIntyre'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=545 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/arborealarch_5.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/arborealarch_4.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/arborealarch_6.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='116' version='1' lat='30.269920000307934' lon='-97.74332000011776' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='High Water Mark'/>
+    <tag k='artist_name' v='Deborah Mersky'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=532 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_008_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_008_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_008_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='117' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Me Barrio'/>
+    <tag k='artist_name' v='Metz Recreation Center Students'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_008_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_008_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_008_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='118' version='1' lat='30.262762792232973' lon='-97.74207698152165' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Seeding Time'/>
+    <tag k='artist_name' v='Nobuho Nagasawa'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=500 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_005_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_005_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_005_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='119' version='1' lat='30.272549006761892' lon='-97.70953730834702' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Spirit of Hope'/>
+    <tag k='artist_name' v='David Newton'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=143 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2000_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2000_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2000_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='120' version='1' lat='30.423104507687015' lon='-97.71459149815166' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Learning to Fly'/>
+    <tag k='artist_name' v='Lori Norwood'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=127 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_015_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_015_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_015_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='121' version='1' lat='30.267600000339883' lon='-97.74297999972708' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Angelina Eberly'/>
+    <tag k='artist_name' v='Pat Oliphant'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=301 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/angelina_oliphant.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_004_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_004_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='122' version='1' lat='30.252912715050357' lon='-97.69302633905961' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Worker'/>
+    <tag k='artist_name' v='Andrew Ortiz'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=209 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_005_1.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='123' version='1' lat='30.249859111962678' lon='-97.72488873538714' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Let Me Entertain You'/>
+    <tag k='artist_name' v='Jill Pangallo'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=541 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic004_2009_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic004_2009_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic004_2009_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='124' version='1' lat='30.266028922049486' lon='-97.71101219647505' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='The Courtyard'/>
+    <tag k='artist_name' v='Jorge Pardo'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=93 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1988_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1988_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1988_003.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='125' version='1' lat='30.267600000339883' lon='-97.74297999972708' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Community Core Sample Project'/>
+    <tag k='artist_name' v='Beverly Penn'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_1b.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_2b.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_3b.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='126' version='1' lat='30.267600000339883' lon='-97.74297999972708' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Threshold Project'/>
+    <tag k='artist_name' v='Beverly Penn'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='127' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Big Arch'/>
+    <tag k='artist_name' v='Joe Perez'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1992_004_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1992_004_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1992_004_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='128' version='1' lat='30.243309999856763' lon='-97.76507999994192' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Lou Neff Point Gazebo'/>
+    <tag k='artist_name' v='Joe Perez'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1993_006.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='129' version='1' lat='30.269920000307934' lon='-97.74332000011776' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Opossum Temple and Voodoo Pew'/>
+    <tag k='artist_name' v='Robert Phillips'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1993_007.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='130' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Untitled'/>
+    <tag k='artist_name' v='Arlene Polite'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/untitled_polite.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='131' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Untitled'/>
+    <tag k='artist_name' v='Arlene Polite'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/untitled_polite.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='132' version='1' lat='30.136680000082094' lon='-97.67493999978103' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Play'/>
+    <tag k='artist_name' v='Arlene Polite'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=178 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_010.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='133' version='1' lat='30.136680000082094' lon='-97.67493999978103' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Printing'/>
+    <tag k='artist_name' v='Arlene Polite'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=177 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_009.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='134' version='1' lat='30.26473389832728' lon='-97.74923338272032' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='The Waller Creek Shelves'/>
+    <tag k='artist_name' v='Damian Priour'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=118 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='135' version='1' lat='30.27848453215529' lon='-97.68429333898456' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Dove and the Leaves of Healing'/>
+    <tag k='artist_name' v='Pio Pulido'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=123 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_007.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_007_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_007_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='136' version='1' lat='30.187860944732922' lon='-97.74223740897932' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Untitled'/>
+    <tag k='artist_name' v='Claudia Reese'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_001.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1998_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='137' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Signs of the Times'/>
+    <tag k='artist_name' v='Steven Rendon'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1991_004.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='138' version='1' lat='30.27515704064689' lon='-97.73329739636114' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Italianos 1; Italianos 2; Italianos 3; Indian Land1; On the Way &amp; Pueblo Trees'/>
+    <tag k='artist_name' v='Priscilla Robinson'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=166 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1993_003.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='139' version='1' lat='30.25158178209171' lon='-97.72072545231359' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Big Arch'/>
+    <tag k='artist_name' v='David Santos'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1992_004_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1992_004_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1992_004_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='140' version='1' lat='30.243309999856763' lon='-97.76507999994192' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Lou Neff Point Gazebo'/>
+    <tag k='artist_name' v='David Santos'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1993_006.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='141' version='1' lat='30.26473389832728' lon='-97.74923338272032' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Index for Contemplation'/>
+    <tag k='artist_name' v='Margo Sawyer'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=194 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_004_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_004_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_004_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='142' version='1' lat='30.262762792232973' lon='-97.74207698152165' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Crumley&apos;s Market'/>
+    <tag k='artist_name' v='Jack L.Schuller'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=167 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_006.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='143' version='1' lat='30.136680000082094' lon='-97.67493999978103' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='La Pinata'/>
+    <tag k='artist_name' v='David Serrano'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=179 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_011.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='144' version='1' lat='30.252912715050357' lon='-97.69302633905961' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Lady Bird Johnson Wildflower Spring #1'/>
+    <tag k='artist_name' v='Victoria Smith'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=205 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_002_1.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='145' version='1' lat='30.213201169987954' lon='-97.87639848873056' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Karst Circle'/>
+    <tag k='artist_name' v='W. Gary Smith'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=502 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2004_007_1.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='146' version='1' lat='30.252912715050357' lon='-97.69302633905961' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='The Cyclist'/>
+    <tag k='artist_name' v='Terese M.St. Arnauld'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=216 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/cyclist_starnauld.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='147' version='1' lat='30.269920000307934' lon='-97.74332000011776' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Opossum Temple and Voodoo Pew'/>
+    <tag k='artist_name' v='Lars A.Stanley'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1993_007.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='148' version='1' lat='30.3545893809695' lon='-97.68204705614235' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Tribute to Gus Garcia'/>
+    <tag k='artist_name' v='Lars A.Stanley'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=518 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2008_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='149' version='1' lat='30.22482048732353' lon='-97.77045994311088' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Fire in the Heart'/>
+    <tag k='artist_name' v='Lars A.Stanley'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=97 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1990_003_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1990_003_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1990_003_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='150' version='1' lat='30.26623576611621' lon='-97.76896450804315' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Zilker Gardens Main Entry Gate'/>
+    <tag k='artist_name' v='Lars A.Stanley'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1995_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1995_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1995_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='151' version='1' lat='30.26929346101582' lon='-97.71621027780441' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Outdoor Studio'/>
+    <tag k='artist_name' v='Rita Starpattern'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1990_001.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='152' version='1' lat='30.202653698644724' lon='-97.66544354925043' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Transition'/>
+    <tag k='artist_name' v='James Talbot'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=505 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2006_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2006_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2006_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='153' version='1' lat='30.262683444100503' lon='-97.75797479284512' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Moments'/>
+    <tag k='artist_name' v='Carl Trominski'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=219 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/moments_trominski.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='154' version='1' lat='30.27515704064689' lon='-97.73329739636114' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Schnauzer at the Door'/>
+    <tag k='artist_name' v='Phillip Wade'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=165 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1993_002.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='155' version='1' lat='30.258690454290388' lon='-97.74633756578595' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Night Wings'/>
+    <tag k='artist_name' v='Dale Whistler'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=204 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/nightwings_whistler.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='156' version='1' lat='30.267953471192186' lon='-97.75831653521624' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Playmates'/>
+    <tag k='artist_name' v='Dale Whistler'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=138 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/playmates_whistler.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_005_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1999_005_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='157' version='1' lat='30.21486649180258' lon='-97.863312382137' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Untitled'/>
+    <tag k='artist_name' v='Dale Whistler'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=124 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1997_001.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='158' version='1' lat='30.21486649180258' lon='-97.863312382137' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Untitled'/>
+    <tag k='artist_name' v='Dale Whistler'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=111 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1994_002.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='159' version='1' lat='30.188192600413572' lon='-97.73253297263619' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='On the Green'/>
+    <tag k='artist_name' v='Pat Wilie'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=141 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/green_wilie.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='160' version='1' lat='30.23392312560344' lon='-97.78565592490696' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Community Quilt'/>
+    <tag k='artist_name' v='Steve Wiman'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1995_003.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='161' version='1' lat='30.267600000339883' lon='-97.74297999972708' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Community Core Sample Project'/>
+    <tag k='artist_name' v='Steve Wiman'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_1b.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_2b.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_3b.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='162' version='1' lat='30.267600000339883' lon='-97.74297999972708' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Threshold Project'/>
+    <tag k='artist_name' v='Steve Wiman'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_001_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='163' version='1' lat='30.202653698644724' lon='-97.66544354925043' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Barbara Jordan Memorial'/>
+    <tag k='artist_name' v='Bruce Wolfe'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=503 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_008_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_008_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2002_008_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='164' version='1' lat='30.252912715050357' lon='-97.69302633905961' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Shoestring'/>
+    <tag k='artist_name' v='Shelley Wood'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=215 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2003_011_1.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='165' version='1' lat='30.26473389832728' lon='-97.74923338272032' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Riffs and Rhythms'/>
+    <tag k='artist_name' v='John Yancey'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=121 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_005_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_005_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1996_005_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='166' version='1' lat='30.269920000307934' lon='-97.74332000011776' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='Lone Star Gazebo'/>
+    <tag k='artist_name' v='Rodolfo Ybarra'/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=115 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic1995_001.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='167' version='1' lat='30.25976064750523' lon='-97.753981803035' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='For Jeep With Love'/>
+    <tag k='artist_name' v='ARCHAIC '/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=188 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2001_002_1.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2001_002_2.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2001_002_3.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+  <node id='168' version='1' lat='30.267600000339883' lon='-97.74297999972708' visible='true'>
+    <tag k='amenity' v='artwork'/>
+    <tag k='tourism' v='artwork'/>
+    <tag k='name' v='LAB'/>
+    <tag k='artist_name' v='NextProject '/>
+    <tag k='url' v='http://www.austintexas.gov/aipp/aipp_detail.cfm?art=544 '/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_030_1.jpg.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_030_2.jpg.jpg'/>
+    <tag k='image' v='http://assets.austintexas.gov/aipp/images/pic2009_030_3.jpg.jpg'/>
+    <tag k='source_ref' v='https://data.austintexas.gov/Fun/City-of-Austin-Public-Art-Collection/yqxj-7evp'/>
+  </node>
+</osm>
