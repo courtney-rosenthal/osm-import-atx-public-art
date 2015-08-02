@@ -58,7 +58,7 @@ open(SOURCE) do |io|
 
     node = Element.new("node")
     node.add_attributes(
-      "id" => @id+=1,
+      "id" => @id-=1,
       "version" => "1", # XXX
       #"changeset" => "0", # XXX
       "lat" => lat,
@@ -76,7 +76,6 @@ open(SOURCE) do |io|
       self << tag
     end
 
-    node.add_tag("amenity", "artwork")
     node.add_tag("tourism", "artwork")
     node.add_tag("name", row["Art Title"])
     node.add_tag("artist_name", row["Artist Full Name"])
