@@ -19,10 +19,10 @@ does successfully process the content from the city dataset.
 
 ## Issues
 
-  * Do I need to generate a <bounds> element?
-  * For the <node> element, what do I generate for @id and @version?
-  * For the <node> element, do I need to generate anything for @changeset, @user, @uid, or @timestamp?
-  * Review the <tag> elements for correctness.
+  * Do I need to generate a &lt;bounds&gt; element?
+  * For the &lt;node&gt; element, what do I generate for @id and @version?
+  * For the &lt;node&gt; element, do I need to generate anything for @changeset, @user, @uid, or @timestamp?
+  * Review the &lt;tag&gt; elements for correctness.
   * Need to figure out the rest of the import process.
   * This is blocked by city publication of its data terms of use.
 
